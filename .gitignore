@@ -1,0 +1,11 @@
+pokemon
+unit_tests
+*~
+*.a
+*.o
+*.gcda
+*.gcno
+.idea/
+.vscode/
+sujet/
+pokecfg/
